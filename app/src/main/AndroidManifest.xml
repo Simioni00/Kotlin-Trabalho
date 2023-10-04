@@ -16,7 +16,7 @@
             android:name=".PagamentoActivity"
             android:exported="false"
             android:label="@string/title_activity_pagamento"
-            android:theme="@style/Theme.KotlinTrabalho" />
+            android:theme="@style/Theme.MainActivity" />
         <activity
             android:name=".TelaSecundariaActivity"
             android:exported="false" />
@@ -28,6 +28,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value=""/>
         </activity>
     </application>
 
