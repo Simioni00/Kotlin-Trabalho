@@ -6,8 +6,6 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-    <string name="open_nav">Open Navigation Drawer</string>
-    <string name="close_nav">Close Navigation Drawer</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
@@ -43,13 +41,26 @@
         libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
         sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
-        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+        vestibulum. Fusce dictum
     </string>
-<string name="bem_vindo">Bem-vindo!</string>
-<string name="confirmar">Confirmar</string>
-<string name="e_mail">E-mail</string>
-<string name="senha">Senha</string>
-<string name="carrinho">Carrinho</string>
-<string name="produtos">Produtos</string>
-<string name="confirmaar">Confirmar</string>
-    </resources>
+    <string name="bem_vindo">Welcome!</string>
+    <string name="confirmar">Confirm</string>
+    <string name="e_mail">Email</string>
+    <string name="senha">Password</string>
+    <string name="carrinho">Cart</string>
+    <string name="produtos">Products</string>
+    <string name="confirmaar">Confirm</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
