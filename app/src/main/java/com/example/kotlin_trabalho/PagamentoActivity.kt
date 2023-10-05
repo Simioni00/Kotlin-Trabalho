@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
 import android.widget.Toast
-import android.widget.Toolbar
+import androidx.appcompat.widget.Toolbar
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
@@ -33,10 +33,6 @@ class PagamentoActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
                 .replace(R.id.fragment_container, RomeFragment()).commit()
             navigationView.setCheckedItem(R.id.nav_home)
         }
-    }
-
-    private fun setSupportActionBar(toolbar: Toolbar?) {
-
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
